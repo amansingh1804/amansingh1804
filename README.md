@@ -280,7 +280,7 @@ Impact: Revolutionizing remote healthcare
 </td>
 <td width="50%">
 
-### 📊 DoKr
+### 📊 DoKtR-G
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3b6a7fd7853.gif" width="250">
 </p>
